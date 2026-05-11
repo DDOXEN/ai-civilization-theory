@@ -13,8 +13,7 @@ Agriculture
 | However, AI civilization transforms intelligence itself into the dominant productive infrastructure. | 然而，AI 文明將使智能本身成為主導性的生產基礎設施。 |
 | This paper proposes a new production-oriented consensus framework named Proof-of-Task (PoT), where consensus is derived from measurable productive contribution. | 本文提出一種新的生產導向共識框架——任務證明（PoT），其中共識來自可衡量的生產貢獻。 |
 | The paper further introduces AI-native blockchain architecture, distributed cognition theory, recursive production theory, decentralized inference markets, and civilization-scale operating systems. | 本文進一步提出 AI 原生區塊鏈架構、分散式認知理論、遞歸生產理論、去中心化推理市場與文明級作業系統。 |
-@article{ai_civilization_2026,
-  title={AI Civilization Coordination Theory},
-  author={...},
-  year={2026}
-}
+ai_civilization_2026,
+ AI Civilization Coordination Theory},
+year={2026}
+V0.1
